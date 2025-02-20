@@ -4,10 +4,10 @@ A diabetes management system that allows users to record and manage up to 300 pa
 
 # Key features
 
-Interactive menu 
-Data storage 
-Input validation 
-Add new patients 
-Update patient’s diabetes status and improvement regime 
-Locate patients by surname 
-Display all recorded patient details
+- Interactive menu
+- Data storage
+- Input validation
+- Add new patients
+- Update patient’s diabetes status and improvement regime
+- Locate patients by surname
+- Display all recorded patient details
